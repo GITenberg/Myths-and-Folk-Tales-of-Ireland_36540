@@ -1,0 +1,38 @@
+_repo: Myths-and-Folk-Tales-of-Ireland_36540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+description: ''
+gutenberg_issued: '2011-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Ireland'
+- !lcc 'GR'
+- !lcsh 'Fairy tales -- Ireland'
+tableOfContents: The son of the King of Erin, and the Giant of Lock Léin -- The three
+  daughters of King O'Hara -- The weaver's son and the giant of the White Hill --
+  Fair, brown, and trembling -- The King of Erin and the Queen of the Lonesome Island
+  -- The Shee an Gannon and the Gruagach Gaire -- The three daughters of the King
+  of the East, and the son of a King in Erin -- The fisherman's son and the gruagach
+  of tricks -- The thirteenth son of the King of Erin -- Kil Arthur -- Shaking-head
+  -- Birth of Fin MacCumhail and origin of the Fenians of Erin -- Fin MacCumhail and
+  the Fenians of Erin in the castle of Fear Dubh -- Fin MacCumhail and the Knight
+  of the Full Axe -- Gilla na Grakin and Fin MacCumhail -- Fin MacCumhail, the seven
+  brothers, and the King of France -- Black, brown, and gray -- Fin MacCumhail and
+  the son of the King of Alba -- Cucúlin -- Oisin in tir na n-og.
+title: Myths and Folk Tales of Ireland
+url: http://www.gutenberg.org/ebooks/36540
